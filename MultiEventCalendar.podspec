@@ -38,6 +38,6 @@ TODO: Add long description of the pod here.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   s.frameworks = 'UIKit'
-  s.dependency "JTAppleCalendar", "~> 7.0"
+  s.dependency "JTAppleCalendar", "~> 8.0"
   s.dependency "DateTools", "~> 2.0"
 end
